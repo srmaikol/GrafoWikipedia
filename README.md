@@ -1,5 +1,5 @@
 # GrafoWikipedia
-Grafo de WikiPedia desarrollado en Python para la materia Algoritmos y Programación II de la Facultad de Ingeniería - UBA
+## Grafo de WikiPedia desarrollado en Python para la materia Algoritmos y Programación II de la Facultad de Ingeniería - UBA - Agosto 2020
 
 # ENUNCIADO
 
