@@ -3,19 +3,6 @@
 
 # ENUNCIADO
 
-Trabajo Práctico 3
-================
-{:.no_toc}
-
-El trabajo práctico número 3 tiene fecha de entrega para el día **{{fecha}}**.
-
-## Contenido
-{:.no_toc}
-
-* Contenido
-{:toc}
-
-
 ## Introducción
 
 El objetivo de este trabajo práctico es el de modelar Internet: las páginas web y sus interacciones. 
